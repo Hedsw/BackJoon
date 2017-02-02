@@ -3,3 +3,20 @@
 
 # By Yunhyeok Lee  
 문의 사항은 여기로 yun.hyeok.lee@gmail.com  
+
+# Console 창에서 실행 해볼려면..
+ javac 자바파일명.java
+ java -classpath . 클래스파일명
+
+
+ #############################################################
+This folders are talking about solving algorithm problems such as Code Ground.
+The 50 problems that i soloved at code ground, will uploaded as soon as possible.
+
+By Yunhyeok Lee at South Dakota State Univ.
+
+Contact: yun.hyeok.lee@gmail.com
+
+How to implement in console or terminal
+javac filename.javac
+java -classpath . classname
