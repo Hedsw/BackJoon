@@ -18,5 +18,5 @@ By Yunhyeok Lee at South Dakota State Univ.
 Contact: yun.hyeok.lee@gmail.com
 
 How to implement in console or terminal \n
-javac filename.javac \n
+javac filename.java \n
 java -classpath . classname
