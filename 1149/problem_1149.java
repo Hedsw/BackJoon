@@ -19,7 +19,7 @@ int main()
 
     for (i = 1; i < n; i++) {
         scanf("%d %d %d", &price[0], &price[1], &price[2]);
- 
+
         d[i][0] = min(d[i - 1][1], d[i - 1][2]) + price[0];
         d[i][1] = min(d[i - 1][0], d[i - 1][2]) + price[1];
         d[i][2] = min(d[i - 1][0], d[i - 1][1]) + price[2];
@@ -29,6 +29,3 @@ int main()
 
     return 0;
 }
-
-
-출처: http://ksj14.tistory.com/entry/1149-RGB거리 [:: ENJOY ::]
